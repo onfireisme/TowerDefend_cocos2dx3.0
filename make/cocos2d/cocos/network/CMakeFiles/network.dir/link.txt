@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libnetwork.a  CMakeFiles/network.dir/HttpClient.cpp.o CMakeFiles/network.dir/SocketIO.cpp.o
+/usr/bin/ranlib ../../../lib/libnetwork.a

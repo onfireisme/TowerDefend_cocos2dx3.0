@@ -1,0 +1,17 @@
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/CMakeFiles/MyGame.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/CMakeFiles/MyGame_CORE_PRE_BUILD.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/CMakeFiles/MyGame_PRE_BUILD.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/cocos/audio/CMakeFiles/audio.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/external/Box2D/CMakeFiles/box2d.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/external/chipmunk/src/CMakeFiles/chipmunk_static.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/cocos/2d/CMakeFiles/cocos2d.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/cocos/base/CMakeFiles/cocosbase.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/cocos/editor-support/cocosbuilder/CMakeFiles/cocosbuilder.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/cocos/editor-support/cocostudio/CMakeFiles/cocostudio.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/extensions/CMakeFiles/extensions.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/cocos/gui/CMakeFiles/gui.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/cocos/math/kazmath/src/CMakeFiles/kazmath.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/cocos/network/CMakeFiles/network.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/cocos/editor-support/spine/CMakeFiles/spine.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/external/tinyxml2/CMakeFiles/tinyxml2.dir
+/usr/games/cocos2d-x-3.0beta2/myGameSpace/towerDefend/make/cocos2d/external/unzip/CMakeFiles/unzip.dir
